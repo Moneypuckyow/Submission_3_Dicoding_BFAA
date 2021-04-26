@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="made_by">Made by</string>
+    <string name="github"> ConsumerApp </string>
+    <string name="my_name">Alex Lianardo</string>
+    <string name="location">%s </string>
+    <string name="repository">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="number">%s </string>
+    <string name="company">%s </string>
+    <string name="detail">Detail User</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_favorite">"Added Favorite"</string>
+    <string name="delete_favorite">"Deleted Favorite"</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="empty_data">Empty Data</string>
+    <string name="reminder_on">Reminder Will Be On At 9.00 AM</string>
+    <string name="remind">Remind Me</string>
+    <string name="reminder_off">Reminder Goes Off</string>
+    <string name="reminder">Wake Up From Your Dream and Open Our Apps</string>
+    <string name="languange">Change Languange</string>
+    <string name="find_user">Find User</string>
+    <string name="todo">TODO</string>
+</resources>
